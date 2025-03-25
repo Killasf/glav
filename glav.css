@@ -58,7 +58,7 @@ header a{
     display: flex;
 }
 body{
-    background-image: url(img/fon8.jpg);
+    background-image: url(fon8.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -73,7 +73,7 @@ main{
 }
 .line{
     height: 1px;
-    background-image: url(img/line1.svg);
+    background-image: url(line1.svg);
 }
 .history{
     display: flex;
@@ -87,7 +87,7 @@ main{
     align-items: center;
     flex-direction: column;
     width: 70%;
-    background-image: url(img/Fon_stoika.svg);
+    background-image: url(Fon_stoika.svg);
     gap: 20px;
     border-radius: 20px;
     padding: 20px;
